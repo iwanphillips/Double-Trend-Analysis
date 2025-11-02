@@ -3,4 +3,4 @@ These files are for calculating two linear fits with a point of intersection bet
 
 The code for finding the two linear fits is written in Fortran and the code for plotting is written in python. 
 
-<img src="double_lin_potsdam.png" width="700" />
+<img src="double_lin_potsdam.png" width="550" />
